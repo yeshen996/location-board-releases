@@ -6,6 +6,7 @@
   "downloadUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.0/location-board-1.1.0.zip",
   "installerUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.0/location-board-setup-1.1.0.exe",
   "installerUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.0/location-board-setup-1.1.0.exe",
-  "sha256": "5de1469b357514777c9af4ff62acd222743d188d435cd1c5b494cfead6847adb",
+  "sha256": "8e70ab1623b8630e586fc821f90e3c930c431244222fed1d13f93a80a782e32b",
+  "installerSha256": "edb55e2c6bdf2a3c356fc0a6842465db8e2b7b5e27ebb614102302e1bf1a96c2",
   "updateMode": "forced"
 }
