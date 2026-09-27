@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-09-27T03:06:11.923Z",
+  "announcements": [
+    {
+      "id": "ann-1781248090988",
+      "title": "测试",
+      "content": "定位板发布测试",
+      "effectiveFrom": "2026-06-12",
+      "priority": "normal",
+      "publishedAt": "2026-06-12",
+      "revokedAt": "2026-09-27T03:06:11.923Z"
+    }
+  ]
+}
