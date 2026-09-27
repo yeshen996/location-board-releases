@@ -1,11 +1,3 @@
 {
-  "announcements": [
-    {
-      "id": "ann-1781248090988",
-      "title": "测试",
-      "content": "定位板发布测试",
-      "effectiveFrom": "2026-06-12",
-      "priority": "normal"
-    }
-  ]
+  "announcements": []
 }
