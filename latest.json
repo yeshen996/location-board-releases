@@ -1,12 +1,12 @@
 {
-  "version": "1.1.6",
-  "releaseDate": "2026-10-13",
-  "releaseNotes": "1. 修复了根开查找不准确的bug；\n2. 修复了地形图端点绘制异常连线的bug；",
-  "downloadUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.6/location-board-1.1.6.zip",
-  "downloadUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.6/location-board-1.1.6.zip",
-  "installerUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.6/location-board-setup-1.1.6.exe",
-  "installerUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.6/location-board-setup-1.1.6.exe",
-  "sha256": "0f08a1c7ed3a77efb07616005e7017219379caf2808dc68f7753f3997cbfb963",
-  "installerSha256": "0f08a1c7ed3a77efb07616005e7017219379caf2808dc68f7753f3997cbfb963",
+  "version": "1.1.7",
+  "releaseDate": "2026-10-25",
+  "releaseNotes": "增加环保及水文专业记录表模块",
+  "downloadUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.7/location-board-1.1.7.zip",
+  "downloadUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.7/location-board-1.1.7.zip",
+  "installerUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.7/location-board-setup-1.1.7.exe",
+  "installerUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.7/location-board-setup-1.1.7.exe",
+  "sha256": "c8941793fc797a827de0505f301655ec400150b62d1acc02981e4d1aac922ea7",
+  "installerSha256": "c8941793fc797a827de0505f301655ec400150b62d1acc02981e4d1aac922ea7",
   "updateMode": "forced"
 }
