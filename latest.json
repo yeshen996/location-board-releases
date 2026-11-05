@@ -1,12 +1,12 @@
 {
-  "version": "1.1.8",
-  "releaseDate": "2026-11-03",
-  "releaseNotes": "修复了资料检查的异常报错",
-  "downloadUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.8/location-board-1.1.8.zip",
-  "downloadUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.8/location-board-1.1.8.zip",
-  "installerUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.8/location-board-setup-1.1.8.exe",
-  "installerUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.8/location-board-setup-1.1.8.exe",
-  "sha256": "9bcfe7ca2096279d54ab7f3d3ecf78c9969af0eb1cae2ef444da8c34079e48b6",
-  "installerSha256": "9bcfe7ca2096279d54ab7f3d3ecf78c9969af0eb1cae2ef444da8c34079e48b6",
-  "updateMode": "optional"
+  "version": "1.1.9",
+  "releaseDate": "2026-11-05",
+  "releaseNotes": "1. 新增照片界面左右切换功能；\n2. 新增测距功能，现在用户可通过菜单功能按钮或快捷键（默认为D）直接在地形图上 \n    测量平面距离及高差，数据仅供临时参考；\n3. 部分UI调整；",
+  "downloadUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.9/location-board-1.1.9.zip",
+  "downloadUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.9/location-board-1.1.9.zip",
+  "installerUrl": "https://github.com/yeshen996/location-board-releases/releases/download/v1.1.9/location-board-setup-1.1.9.exe",
+  "installerUrlGitee": "https://gitee.com/yeshen996/location-board-releases/releases/download/v1.1.9/location-board-setup-1.1.9.exe",
+  "sha256": "5b0f565ff9e9e8b716be7a545d94255251aff3fb4a3c0abd889e5f596d38f8d3",
+  "installerSha256": "5b0f565ff9e9e8b716be7a545d94255251aff3fb4a3c0abd889e5f596d38f8d3",
+  "updateMode": "forced"
 }
